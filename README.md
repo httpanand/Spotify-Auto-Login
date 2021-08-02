@@ -1,2 +1,2 @@
 # Spotify-Auto-Login
-A simple code to login to spotify automatically .
+## Spotify Login automation with selenium !
